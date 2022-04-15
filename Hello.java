@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Hello {
   public static void main(String[] args) {
@@ -28,6 +28,10 @@ public class Hello {
 
     System.out.print("your phone:");
     phone = scanf.nextInt();
+
+    System.out
+        .println("your name is " + name + " your adress is " + adress + " your city is " + city + " your state is "
+            + state + " your profession is " + profession + " your cep is " + cep + " your phone is " + phone);
 
   }
 
