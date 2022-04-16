@@ -16,7 +16,7 @@ public class Vendas {
     System.out.println("Entre com o valor projetado total de vendas:");
     totalVendas = scanf.nextFloat();
 
-    lucro = (float) (totalVendas * 0.25);
+    lucro = (float) (totalVendas * 0.23);
 
     System.out.println("O lucro anual e:" + lucro);
     System.out.println("Valor bruto: " + (totalVendas + lucro));
