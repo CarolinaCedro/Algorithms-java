@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "Sequencial-I",
     "Decisao-1",
-    "Sequencial-I"
+    "Repetição"
   ]
 }
