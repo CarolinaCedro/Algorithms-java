@@ -14,7 +14,7 @@ public class Result3 {
     int soma3 = (number2 + number3);
 
     if (soma1 == number3) {
-      System.out.println("A soma dos dos numeros é igual ao valor do terceito numero de valor: " + number3);
+      System.out.println("A soma dos dos numeros é igual ao valor do terceiro valor " + number3);
     } else if (soma2 == number2) {
       System.out.println("A soma dos dos numeros é igual ao valor de " + number2);
     } else if (soma3 == number1) {
